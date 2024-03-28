@@ -3,12 +3,12 @@ entries:
   kads:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-03-28T11:05:58.077131+01:00"
-    digest: 42d0d5a59bcd75b7065c86655a086b11f1c1bfc621eef73cab7e0484c45ca5bd
+    created: "2024-03-28T17:00:16.258818+01:00"
+    digest: 499eb0f684e57480e25baf8bb1dd21707c42c7c65edcdf05ba60babaddae1640
     name: kads
     sources:
     - https://github.com/KubeDP/kads
     urls:
     - https://kubedp.github.io/helm-charts/charts/kads-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-28T11:05:58.076577+01:00"
+generated: "2024-03-28T17:00:16.257971+01:00"
