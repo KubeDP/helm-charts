@@ -3,7 +3,7 @@ entries:
   kad-controller:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-04-04T10:20:23.520509+02:00"
+    created: "2024-04-04T11:41:53.853474+02:00"
     digest: fd0d3a197fefebc7c15a5d35277607c55cff2c51a7d59ecdec5254b7042feb4b
     name: kad-controller
     sources:
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://kubedp.github.io/helm-charts/charts/kad-controller-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-04T10:20:23.519975+02:00"
+generated: "2024-04-04T11:41:53.85292+02:00"
