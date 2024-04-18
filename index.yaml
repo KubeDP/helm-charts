@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   kad-controller:
   - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2024-04-18T11:26:38.140806+02:00"
+    digest: e11137bf93b565c8db71fbe8584258a53b9f84aaff7fae61a79e93b29dd26cb3
+    name: kad-controller
+    sources:
+    - https://github.com/KubeDP/kad-controller
+    urls:
+    - https://kubedp.github.io/helm-charts/charts/kad-controller-0.2.0-a1.tgz
+    version: 0.2.0-a1
+  - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-04-04T11:48:32.8712+02:00"
+    created: "2024-04-18T11:26:38.140419+02:00"
     digest: 08b3b5a3e6be5ab01b25099e1c664342d694d4d03285319fb206628494ec4646
     name: kad-controller
     sources:
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-04-04T11:48:32.870825+02:00"
+    created: "2024-04-18T11:26:38.139691+02:00"
     digest: fd0d3a197fefebc7c15a5d35277607c55cff2c51a7d59ecdec5254b7042feb4b
     name: kad-controller
     sources:
@@ -23,7 +33,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-04-04T11:48:32.87045+02:00"
+    created: "2024-04-18T11:26:38.138651+02:00"
     digest: c3cb42994a20a7cf978f843b31acb4721bd670efc605d733492ed8cd2ea387e6
     name: kad-controller
     sources:
@@ -31,4 +41,4 @@ entries:
     urls:
     - https://kubedp.github.io/helm-charts/charts/kad-controller-0.1.0-a1.tgz
     version: 0.1.0-a1
-generated: "2024-04-04T11:48:32.869807+02:00"
+generated: "2024-04-18T11:26:38.137796+02:00"
