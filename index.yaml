@@ -3,8 +3,8 @@ entries:
   kad-controller:
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2024-06-05T22:47:57.031379+02:00"
-    digest: 4c8fb6cc4cf8b2808f841f9ca77d607bbe2c67f4bf7c0708a9bd2a69e743f4d9
+    created: "2024-06-05T23:27:51.515805+02:00"
+    digest: dca41387b1b0b2382339a241a74b9e75bf70f9dcf6cef53aeb30680e4b717a83
     name: kad-controller
     sources:
     - https://github.com/KubeDP/kad-controller
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0-a3
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2024-06-05T22:47:57.03094+02:00"
+    created: "2024-06-05T23:27:51.515415+02:00"
     digest: 51891dca8ec8fd8c57187476c2138a5c96e571d1a47658d1d0844673e42fe390
     name: kad-controller
     sources:
@@ -23,7 +23,7 @@ entries:
     version: 0.2.0-a2
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2024-06-05T22:47:57.030297+02:00"
+    created: "2024-06-05T23:27:51.514726+02:00"
     digest: e11137bf93b565c8db71fbe8584258a53b9f84aaff7fae61a79e93b29dd26cb3
     name: kad-controller
     sources:
@@ -33,7 +33,7 @@ entries:
     version: 0.2.0-a1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-05T22:47:57.02827+02:00"
+    created: "2024-06-05T23:27:51.514315+02:00"
     digest: 08b3b5a3e6be5ab01b25099e1c664342d694d4d03285319fb206628494ec4646
     name: kad-controller
     sources:
@@ -43,7 +43,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-05T22:47:57.027377+02:00"
+    created: "2024-06-05T23:27:51.512387+02:00"
     digest: fd0d3a197fefebc7c15a5d35277607c55cff2c51a7d59ecdec5254b7042feb4b
     name: kad-controller
     sources:
@@ -53,7 +53,7 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-06-05T22:47:57.026613+02:00"
+    created: "2024-06-05T23:27:51.511981+02:00"
     digest: c3cb42994a20a7cf978f843b31acb4721bd670efc605d733492ed8cd2ea387e6
     name: kad-controller
     sources:
@@ -61,4 +61,4 @@ entries:
     urls:
     - https://kubedp.github.io/helm-charts/charts/kad-controller-0.1.0-a1.tgz
     version: 0.1.0-a1
-generated: "2024-06-05T22:47:57.025567+02:00"
+generated: "2024-06-05T23:27:51.511413+02:00"
